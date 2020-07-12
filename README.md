@@ -1,4 +1,4 @@
-# Python-Reddit-Bot
+# Friendly-Reddit-Bot
 
 As a Reddit user, I felt that creating some bots for some trivial jobs might be interesting. So, I started learning how to do that. Just made a simple bot to do a wholesome job using the `PRAW` library. 
 
