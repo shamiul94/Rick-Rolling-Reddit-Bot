@@ -4,7 +4,7 @@ As a Reddit user, I felt that creating some bots for some trivial jobs might be 
 
 Input your friends handle and the bot will reply to your friend's last 50 comments with a [Youtube link to Rick Astley's Never Gonna Give You Up](https://www.youtube.com/watch?v=dQw4w9WgXcQ) song. Let your friend know that you are always there for him.
 
-# How to run them
+# How to run it
 
 1. Install `praw`.
 ```
